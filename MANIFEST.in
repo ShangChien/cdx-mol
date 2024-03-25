@@ -1,0 +1,2 @@
+include pycdxml/cdxml_slide_generator/*.cdxml
+include pycdxml/cdxml_converter/*.yml
